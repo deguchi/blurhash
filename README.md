@@ -5,6 +5,10 @@
 deno run --allow-net ./blurhash.ts
 ```
 
+```
+deployctl run --watch ./blurhash.ts
+```
+
 
 ## blurhash typescript
 
