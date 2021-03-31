@@ -1,5 +1,9 @@
 # blurhash
 
+blurhashを画像にして返すスクリプト
+
+http://localhost:8080/?blurhash=JRKx8_,10fSt5[b_&width=600&height=500
+
 
 ```
 deno run --allow-net ./blurhash.ts
