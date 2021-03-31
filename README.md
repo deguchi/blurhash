@@ -25,3 +25,6 @@ https://deno.land/manual@main/introduction
 
 
 https://deno.com/deploy/docs
+
+
+https://doc.deno.land/https/raw.githubusercontent.com/denoland/deno/main/cli/dts/lib.deno.unstable.d.ts
