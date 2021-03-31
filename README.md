@@ -12,7 +12,7 @@ https://github.com/woltapp/blurhash/tree/master/TypeScript
 
 
 
-## troiuble
+## trouble
 
 deno/deployに載せたかったが、unkown error  
 おそらくdeno-canvasが使っているfetch-base64が使っているDeno.readFileが、deployのruntimeに入ってないため
